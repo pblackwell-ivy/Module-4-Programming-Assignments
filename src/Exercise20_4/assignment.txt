@@ -1,0 +1,5 @@
+*20.4 (Sort points in a plane) Write a program that meets the following requirements.
+Randomly create 100 points using Point2D and apply the Arrays.sort(list, Comparator) method to sort
+the points in increasing order of their
+y-coordinates and then in increasing order of their x-coordinates.
+Display the x- and y-coordinates of the first five points.
