@@ -1,0 +1,25 @@
+*21.4 (Count consonants and vowels) Write a program that prompts the user to enter a text file name and
+displays the number of vowels and consonants in the file.
+Use a set to store the vowels A, E, I, O, and U.
+
+Sample run:
+Enter input data for the program (Sample data provided below.  You may modify it.)
+Temp.txt
+
+Show the Sample Output using the preceding input
+Enter a filename: temp.txt
+File contents:  Good morning Saturday Friday Monday
+the number of vowels is 11 and consonants is 20
+
+
+Summary:
+    Prompt for a filename
+    Read the file's contents
+    Count vowels (A, E, I, O, U) both upper and lowercase
+    Count consonants
+    Display counts
+    use a Set for Vowels
+
+
+
+
